@@ -1,0 +1,15 @@
+{
+    "name": "todo-list-app",
+    "version": "1.0.0",
+    "description": "A simple ToDo List app built with React",
+    "main": "index.js",
+    "scripts": {
+      "start": "echo 'No start script specified. Open index.html to run the application.'"
+    },
+    "author": "Julio Sagatume",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    }
+  }
